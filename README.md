@@ -8,3 +8,4 @@ This repository is for practicing Git and GitHub.
 - Branches
 - Pushing and pulling
 - Merging
+- Test
